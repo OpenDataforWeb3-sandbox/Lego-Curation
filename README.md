@@ -21,8 +21,21 @@ Please see my submission here: [ChatGPT vs AntiSybil Legos](https://github.com/A
 
 Here is a suitable table evaluating this Legos over various indicators
 
-![Vulnerability Score vs  Lego(1)](https://github.com/AdedamolaXL/Lego-Curation/assets/66562380/55c0c61c-f9d7-43e8-ac98-f865188424b5)
+![chart(2)](https://github.com/AdedamolaXL/Lego-Curation/assets/66562380/4802dfb7-7a11-4665-a936-3a71f97960cb)
 
+Here is a list of compatible legos based on evaluation:
+* Proof of Humanity: Compatible with BrightID and Upala as they all relate to identity verification and reputation systems.
+* Address Correlation Lego: Can potentially be used in conjunction with other protocols that analyze address correlations or patterns, such as OnChain Footprint Lego or Flagged Activity.
+* Levenshtein Distance: Can be used with protocols that involve username or address comparison, such as BrightID or OnChain History.
+* Money Mixers: Can potentially be integrated with protocols that track or analyze transactions, such as OnChain History or Flagged Activity.
+
+Here is a list of composable legos based on evaluation:
+* Idena and Proof of Humanity: Both protocols focus on establishing and verifying the uniqueness and personhood of individuals on the blockchain.
+* UBI and Proof of Humanity: UBI can utilize the verified identities from Proof of Humanity to ensure that the streamed cash is distributed to real individuals.
+* Address Correlation Lego and OnChain Footprint Lego: These legos can be used together to analyze the correlation between different addresses and track the ownership and transfer of funds within a network.
+* Script Call to API and Funding Wallet: Script Call to API can be used to retrieve data from external APIs and feed it into the Funding Wallet protocol to track and validate funding transactions.
+* POAP and Social Presence: Social Presence can be used to analyze and verify the social media presence of individuals, which can enhance the validation process for the ownership and transfer of POAP tokens.
+* High Frequency Trading and Money Mixers: These protocols can be used in conjunction to detect suspicious trading patterns and identify potential money laundering activities in the blockchain network.
 
 
 # Reference 

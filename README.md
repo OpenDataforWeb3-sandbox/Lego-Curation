@@ -13,9 +13,9 @@ Composability, on the other hand, refers to the ability to combine different leg
 
 In the context of blockchain and decentralized applications, composability is a highly valued characteristic. It allows developers to build on top of existing protocols and smart contracts, leveraging their functionalities and combining them with other protocols or components to create innovative and complex systems.
 
-While compatibility is a prerequisite for composability (protocols need to be compatible to be effectively composed), composability goes beyond compatibility by emphasizing the modularity, interoperability, and ability to create new functionalities through the combination of different protocols or components.
+While compatibility is a prerequisite for composability (Legos need to be compatible to be effectively composed), composability goes beyond compatibility by emphasizing the modularity, interoperability, and ability to create new functionalities through the combination of different protocols or components.
 
-In my course of evaluation, i discovered most of the legos individually did not possess multifactor authentication which is the ability to evaluate more than one factor when evaluating sybil operations. 
+In my course of evaluation, i discovered most of the legos individually did not possess multifactor authentication which is the ability to evaluate more than one factor when evaluating sybil operations, hence the serious need for composability or at least using compatibility legos together
 
 Please see my submission here: [ChatGPT vs AntiSybil Legos](https://github.com/AdedamolaXL/ChatGPT-vs-AntiSybil-Legos)
 
@@ -26,11 +26,11 @@ Here is a suitable table evaluating this Legos over various indicators
 Here is a list of compatible legos based on evaluation:
 * Proof of Humanity: Compatible with BrightID and Upala as they all relate to identity verification and reputation systems.
 * Address Correlation Lego: Can potentially be used in conjunction with other protocols that analyze address correlations or patterns, such as OnChain Footprint Lego or Flagged Activity.
-* Levenshtein Distance: Can be used with protocols that involve username or address comparison, such as BrightID or OnChain History.
-* Money Mixers: Can potentially be integrated with protocols that track or analyze transactions, such as OnChain History or Flagged Activity.
+* Levenshtein Distance: Can be used with legos that involve username or address comparison, such as BrightID or OnChain History.
+* Money Mixers: Can potentially be integrated with legos that track or analyze transactions, such as OnChain History or Flagged Activity.
 
 Here is a list of composable legos based on evaluation:
-* Idena and Proof of Humanity: Both protocols focus on establishing and verifying the uniqueness and personhood of individuals on the blockchain.
+* Idena and Proof of Humanity: Both legos focus on establishing and verifying the uniqueness and personhood of individuals on the blockchain.
 * UBI and Proof of Humanity: UBI can utilize the verified identities from Proof of Humanity to ensure that the streamed cash is distributed to real individuals.
 * Address Correlation Lego and OnChain Footprint Lego: These legos can be used together to analyze the correlation between different addresses and track the ownership and transfer of funds within a network.
 * Script Call to API and Funding Wallet: Script Call to API can be used to retrieve data from external APIs and feed it into the Funding Wallet protocol to track and validate funding transactions.
